@@ -1,0 +1,31 @@
+{
+  "name": "travelboost",
+  "version": "0.0.0",
+  "description": "travelboost expo app",
+  "author": "Peter",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "0.0.12",
+    "expo": "^25.0.0",
+    "native-base": "2.3.9",
+    "react": "16.2.0",
+    "react-addons-shallow-compare": "^15.6.2",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-calendars": "^1.17.3",
+    "react-native-elements": "0.18.5",
+    "react-native-keyboard-aware-scroll-view": "^0.4.4",
+    "react-native-material-tabs": "^3.5.0",
+    "react-native-multi-slider": "^0.3.6",
+    "react-native-router-flux": "^4.0.0-beta.28",
+    "react-native-tabs": "^1.0.9"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "devDependencies": {
+    "reactotron-react-native": "^1.14.0"
+  }
+}
